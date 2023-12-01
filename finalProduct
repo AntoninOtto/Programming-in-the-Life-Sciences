@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="graph-container"></div>
-
+ 
     <script>
         // Function to make a SPARQL query
         function makeSPARQLQuery(endpointUrl, sparqlQuery, doneCallback) {
