@@ -3,7 +3,7 @@
 This project is a simplistic visualization of inflammatory bowel disease's genetic predispositions. This is done through the retrieving of data points from WikiData using a SPARQL query. The SPARQL query is subsequently called in Javascript through the use of an endpoint URL, and a d3js library is loaded and used to propogate the visualization. 
 
 # How to run:
-In order to run the code, navigate to the [finalProduct](https://github.com/AntoninOtto/Programming-in-the-Life-Sciences/blob/main/finalProduct.html) file in the repository. Once in the file, select 'Download raw file', find the downloaded file and open it a browser.
+In order to run the code, navigate to the [finalProduct](https://github.com/AntoninOtto/Programming-in-the-Life-Sciences/blob/main/finalProduct.html) file in the repository. Once in the file, select 'download raw file', find the downloaded file and open it a browser.
 
 # Research question: 
 Are any of the genetic predispositions for IBD also present in other diseases? 
